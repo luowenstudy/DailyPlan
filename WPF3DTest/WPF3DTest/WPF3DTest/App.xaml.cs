@@ -13,7 +13,19 @@ namespace WPF3DTest
     /// </summary>
     public partial class App : Application
     {
+
             int test = 0;
             string str = "test for complicate";
+
+		
+		
+		
+		
+		
+		
+		
+		
+          public int a = 0;
+
     }
 }
