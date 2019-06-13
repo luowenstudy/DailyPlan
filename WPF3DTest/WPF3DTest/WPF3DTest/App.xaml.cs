@@ -14,5 +14,6 @@ namespace WPF3DTest
     public partial class App : Application
     {
             int test = 0;
+            string str = "test for complicate";
     }
 }
