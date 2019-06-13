@@ -13,6 +13,15 @@ namespace WPF3DTest
     /// </summary>
     public partial class App : Application
     {
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		public int a = 0;
     }
 }
